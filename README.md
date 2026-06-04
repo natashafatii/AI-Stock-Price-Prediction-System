@@ -76,7 +76,32 @@ The system predicts stock closing prices using historical stock data and 24 tech
 
 ---
 
-## 🏗 System Architecture ``` User Input │ ▼ Flask Web Application │ ▼ Data Service (yfinance / Stooq / Local Dataset) │ ▼ Feature Engineering (24 Technical Indicators) │ ▼ Data Scaling & Sequence Creation │ ▼ LSTM + GRU + Transformer │ ▼ Weighted Ensemble │ ▼ Predictions + Metrics + Charts ```
+## 🏗 System Architecture ```
+User Input
+│
+▼
+Flask Web Application
+│
+▼
+Data Service
+(yfinance / Stooq / Local Dataset)
+│
+▼
+Feature Engineering
+(24 Technical Indicators)
+│
+▼
+Data Scaling & Sequence Creation
+│
+▼
+LSTM + GRU + Transformer
+│
+▼
+Weighted Ensemble
+│
+▼
+Predictions + Metrics + Charts
+```
 
 
 ---
