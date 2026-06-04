@@ -76,7 +76,8 @@ The system predicts stock closing prices using historical stock data and 24 tech
 
 ---
 
-## 🏗 System Architecture ```
+## 🏗 System Architecture 
+```
 User Input
 │
 ▼
