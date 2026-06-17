@@ -9,28 +9,6 @@
 
 ---
 
-## 📌 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [System Architecture](#system-architecture)
-- [Technical Indicators](#technical-indicators)
-- [Models Used](#models-used)
-- [Ensemble Learning](#ensemble-learning)
-- [Data Pipeline](#data-pipeline)
-- [Training Configuration](#training-configuration)
-- [Evaluation Metrics](#evaluation-metrics)
-- [Backtesting](#backtesting)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Future Improvements](#future-improvements)
-- [Acknowledgments](#acknowledgments)
-- [License](#license)
-- [Disclaimer](#disclaimer)
-
----
-
 ## 🚀 Overview
 
 AI-powered stock price prediction system that uses an ensemble of three deep learning models:
